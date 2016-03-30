@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Digital Journey]]></title>
+        <description><![CDATA[My Digital Journey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 20:51:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to My Digital Journey]]></title>
+            <description><![CDATA[<article><h1>Welcome to My Digital Journey</h1><p>Here lies all the resources that I find interesting and my mission to be a digital marketing ninja. I have taken the step to enroll in Squared Online a Digital Marketing Management Qualification that was developed with Google that i'm very looking forward to. </p></article>]]></description>
+            <link>undefinedwelcome-to-my-digital-journey/index.html</link>
+            <guid isPermaLink="false">74f86ee4-c80f-4f0c-b69a-0c1e2043c3e5</guid>
+            <pubDate>Wed, 30 Mar 2016 20:51:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
